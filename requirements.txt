@@ -1,0 +1,4 @@
+django==2.2.1
+django-simpleui==2.1 
+djangorestframework==3.9.1
+
